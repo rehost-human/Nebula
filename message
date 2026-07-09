@@ -1,5 +1,6 @@
-id: test
-title: тестируем новый формат!
-message: данное уведомление является тестовым и не имеет никакой ценности
-message: <press = "https://t.me/nebula_web">наш телеграм</press>
-image: https://github.com/rehost-human/Nebula/blob/main/nebula-girl.png
+color(blue): #00bfff
+color(common): #ffffff
+id: degradation
+title: ищем фокусы🃏
+message: первый кто найдет баг в коде получит подарок
+message: <press = "https://t.me/nebula_web">{blue}тут телеграм{common}</press>
