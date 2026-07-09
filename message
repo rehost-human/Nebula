@@ -1,9 +1,9 @@
-security_update_2026: 🔐 Обновление безопасности
-message: **Важно!** Добавлено критическое обновление безопасности.
-message: *Рекомендуется* перезайти в аккаунт после обновления.
-message: __Изменения:__ Исправлены уязвимости в протоколе шифрования.
-message: `Код обновления: v2.4.1`
-message: <color = "#ff6b6b">Это сообщение имеет красный цвет</color>
-message: <color = "orange">А это оранжевый текст с важным предупреждением</color>
-url: <press = "https://t.me/nebula_web">📢 Подробнее в Telegram</press>
-image: https://github.com/rehost-human/Nebula/blob/main/nebula-girl.png
+update: Новое обновление
+color(red): #ff4444
+color(green): #44ff44
+color(common): #ffffff
+message: {red}Внимание!{common} Обновите приложение.
+message: *Рекомендуется* перезайти.
+message: {green}✅ Обновление успешно установлено{common}
+url: <press = "https://t.me/nebula_web">Читать</press>
+image: https://raw.githubusercontent.com/rehost-human/Nebula/main/nebula-girl.png
